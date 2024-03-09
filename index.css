@@ -1,26 +1,25 @@
-h1 {
+/* div+p {
     color: red;
-    font-size: 145px;
-    text-decoration: underline;
-}
+} */
 
-p {
-    color: yellow;
-}
+/* div div p+button {
+    color: blue;
+} */
 
-a {
-    text-decoration: none;
-}
-
-.special {
+/* div div+p {
     color: green;
+} */
+
+div div~p+button {
+    color: red;
 }
 
-.npm {
-    font-size: 10px;
+.solix>p {
+    color: chartreuse;
 }
 
-#para {
-    text-decoration: line-through;
-    color: black;
+.solix>div p {
+    color: brown;
 }
+
+/* .solix div > p {} */
