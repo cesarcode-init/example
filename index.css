@@ -1,3 +1,26 @@
 h1 {
-    color: red
+    color: red;
+    font-size: 145px;
+    text-decoration: underline;
+}
+
+p {
+    color: yellow;
+}
+
+a {
+    text-decoration: none;
+}
+
+.special {
+    color: green;
+}
+
+.npm {
+    font-size: 10px;
+}
+
+#para {
+    text-decoration: line-through;
+    color: black;
 }
