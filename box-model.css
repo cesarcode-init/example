@@ -6,6 +6,11 @@ div {
     border-width: 1px; */
 
     border: 1px solid red;
+
+    /* width: 500px;
+    height: 500px; */
+
+    width: 50%;
 }
 
 p {
@@ -22,7 +27,12 @@ p {
     padding-left: 50px;
     padding-right: 50px; */
 
-    padding: 10px 50px;
+    /* padding: 10px 50px; */
+
+    /* width: 150px;
+    height: 150px; */
+
+    /* width: 50%; */
 }
 
 form {
