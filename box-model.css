@@ -10,7 +10,7 @@ div {
     /* width: 500px;
     height: 500px; */
 
-    width: 50%;
+    /* width: 50%; */
 }
 
 p {
@@ -33,6 +33,20 @@ p {
     height: 150px; */
 
     /* width: 50%; */
+
+    /* font-family: sans-serif; */
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    font-size: 30px;
+
+    font-weight: 500;
+
+    /* word-spacing: 200px;
+    letter-spacing: 20px; */
+    color: red;
+    text-align: center;
+    text-decoration: underline;
 }
 
 form {
